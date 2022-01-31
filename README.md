@@ -1,13 +1,11 @@
-### Hello World 👋
+# Hello World 👋
 
-I'm Bushra,
-A Full stack developer..
+## I'm Bushra, A Full stack developer..
 
 - 🔭 I’m currently looking for a new opportunity to optimize my career
 - 🌱 I’m currently learning everything
 - ❤️ I love front-end development, and web design
 
-**Languages and Tools:**  
 ## 🧰 Languages & Tools
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
